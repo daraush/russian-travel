@@ -9,4 +9,4 @@
 * BEM Nested
 * Медиа-запросы
 
-[ССылка на проект](https://daraush.github.io/russian-travel/index.html) 
+[Ссылка на проект](https://daraush.github.io/russian-travel/index.html) 

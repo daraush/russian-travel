@@ -12,10 +12,10 @@
     position: relative;
     text-decoration: none;
     z-index: 1;
-    min-height: calc(1184px / 1.6);
-    
-   
+    min-height: calc((100vw - 96px) * 0.625);
+
 }
+    
 
 .cover__background::before {
     content:"";
@@ -32,4 +32,10 @@
 
 .cover__background:hover::before {
     opacity: .8;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover__background {
+        min-height: calc(100vw * 0.625);
+    }
 }

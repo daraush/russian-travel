@@ -16,8 +16,8 @@
     .place {
         max-width: 100vw;
         grid-template-columns: minmax(min-content, max-content);
-        margin-bottom: 50px;
-        gap: 32px;
+        margin-bottom: 65px;
+        gap: 25px;
     }
     
 }

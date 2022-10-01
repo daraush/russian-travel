@@ -8,11 +8,11 @@
     background-image: url('../../../images/cover-trains.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    padding-bottom: 62.5%;
     background-position: center;
     position: relative;
     text-decoration: none;
     z-index: 1;
+    min-height: calc(1184px / 1.6);
     
    
 }

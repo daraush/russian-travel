@@ -4,8 +4,8 @@
     grid-template-rows: repeat(2, minmax(min-content, max-content));
     max-width: 984px;
     column-gap: 40px;
-    row-gap: 48px;
-    margin-bottom: 80px;
+    row-gap: 36px;
+    margin-bottom: 90px;
 }
 
 .place:last-of-type {

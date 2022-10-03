@@ -1,6 +1,7 @@
 .cover__background {
     color: white;
     max-width: 1184px;
+    min-height: 740px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,8 +13,6 @@
     position: relative;
     text-decoration: none;
     z-index: 1;
-    min-height: calc((100vw - 96px) * 0.625);
-
 }
     
 
